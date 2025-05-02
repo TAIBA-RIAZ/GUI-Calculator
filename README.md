@@ -2,8 +2,7 @@
 
 A simple yet elegant **GUI Calculator** built using Python's `tkinter` library — perfect as a beginner project to understand GUI development in Python.
 
-![Calculator Screenshot](S![Screenshot](https://github.com/user-attachments/assets/d083de58-751e-4c25-8348-6dda2d2d6365)
-creenshot.png)
+(https://github.com/user-attachments/assets/d083de58-751e-4c25-8348-6dda2d2d6365)
 
 ## ✨ Features
 
